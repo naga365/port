@@ -21,4 +21,4 @@ def indexdata():
 
 
 if __name__=="__main__":
-    app.run(debug=False,port=7001)
+    app.run(debug=False,port=6001)
